@@ -3,6 +3,8 @@ C++ and OpenGL Paint program
 
 make to create executables.
 
+![Screenshot](https://user-images.githubusercontent.com/23744162/136130017-fa01bc4d-e853-4fa3-9084-902934ac87ab.JPG)
+
 I used Windows 10 OS and completed this assignment in VSCode.
 
 I compiled the code in MSYS2 MINGW-64 using the Makefile provided byt the prof on Discord.
